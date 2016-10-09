@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:hint="@string/hint_cap_multiline"
+        android:inputType="text|textCapWords|textMultiLine" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:hint="@string/hint_email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:hint="@string/hint_number"
+        android:inputType="number" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:hint="@string/hint_phone"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/send_textfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:inputType="textUri"
+        android:hint="@string/hint_uri_ime_send"
+        android:imeOptions="actionSend" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autocomplete_name"
+        android:layout_width="match_parent"
+        android:textSize="30sp"
+        android:hint="@string/hint_autocomplete"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

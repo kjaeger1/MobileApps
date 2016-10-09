@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UISpinnerPicker</string>
+
+    <string name="timepicker_label">Pick a Time!</string>
+    <string name="datepicker_label">Pick a Date!</string>
+
+    <string-array name="array_classification">
+        <item>Freshman</item>
+        <item>Sophomre</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Super Senior</item>
+        <item>Grad M.S.</item>
+        <item>Grad Ph.D.</item>
+    </string-array>
+
+    <color name="spinner_background_color">#AAAAAA</color>
+    <color name="spinner_popupBackground_color">#FFFFFF</color>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

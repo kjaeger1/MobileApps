@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreadNoThreading</string>
+
+    <string name="load_icon_string">Load Icon</string>
+    <string name="other_button_string">Other Button</string>
+    <string name="image_desc_string">Image</string>
+    <string name="action_settings">Settings</string>
+</resources>

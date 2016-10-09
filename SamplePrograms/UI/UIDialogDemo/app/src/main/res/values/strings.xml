@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UIDialogDemo</string>
+
+    <string name="greeting">Dialog Demo!</string>
+    <string name="dialog_fire_missiles">Fire missiles?</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="button_fire">Fire missiles!</string>
+    <string name="button_color">Pick a color!</string>
+    <string name="button_topping">Pick toppings!</string>
+    <string name="button_custom">Custom Layout Dialog</string>
+    <string name="pick_color">Pick a color</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string name="pick_toppings">Pick toppings</string>
+    <string-array name="toppings">
+        <item>Onion</item>
+        <item>Lettus</item>
+        <item>Tomato</item>
+        <item>Olive</item>
+    </string-array>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="action_settings">Settings</string>
+</resources>

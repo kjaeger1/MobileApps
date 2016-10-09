@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceSimpleLocal</string>
+
+    <string name="start_button">Start Service</string>
+    <string name="stop_button">Stop Service</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

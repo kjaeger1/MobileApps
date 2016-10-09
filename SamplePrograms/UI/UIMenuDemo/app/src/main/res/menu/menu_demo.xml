@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_call"
+        android:orderInCategory="0"
+        android:icon="@drawable/ic_action_call"
+        android:title="@string/call"
+        android:showAsAction="always"
+        />
+    <item
+        android:id="@+id/menu_edit"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="ifRoom"
+        android:title="@string/edit">
+        <!-- "edit" submenu -->
+        <menu>
+            <item
+                android:id="@+id/submenu_copy"
+                android:title="@string/copy"/>
+            <item
+                android:id="@+id/submenu_paste"
+                android:title="@string/paste"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_email"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_email"
+        android:title="@string/email"/>
+
+    <item
+        android:id="@+id/menu_text"
+        android:showAsAction="ifRoom"
+        android:title="@string/text"/>
+
+    <item
+        android:id="@+id/menu_buy"
+        android:showAsAction="ifRoom"
+        android:title="@string/buy"/>
+
+    <item
+        android:id="@+id/menu_sell"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_menu_sell"
+        android:title="@string/sell"/>
+
+    <item
+        android:id="@+id/menu_trade"
+        android:showAsAction="ifRoom"
+        android:title="@string/trade"/>
+</menu>

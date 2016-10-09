@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="title_activity_maps">MapDemo</string>
+    <string name="cs_button_label">CS</string>
+    <string name="lib_button_label">Lib</string>
+
+</resources>

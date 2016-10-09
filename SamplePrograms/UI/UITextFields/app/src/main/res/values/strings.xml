@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UITextFields</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_cap_multiline">textCapWords+textMultiLine</string>
+    <string name="hint_email">textEmailAddress</string>
+    <string name="hint_number">number</string>
+    <string name="hint_phone">phone</string>
+    <string name="hint_uri_ime_send">textURI+imeOptions=actionSend</string>
+    <string name="hint_autocomplete">auto complete name</string>
+
+    <string-array name="names_array">
+        <item>Andrew</item>
+        <item>Andy</item>
+        <item>Amy</item>
+        <item>Amstrong</item>
+        <item>Alex</item>
+        <item>Charlie</item>
+        <item>Cindy</item>
+        <item>Chuck</item>
+        <item>Candy</item>
+        <item>Charmy</item>
+        <item>Carrol</item>
+    </string-array>
+
+</resources>

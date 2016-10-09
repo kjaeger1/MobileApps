@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UIPopupMenu</string>
+
+    <string name="button_label">Show Popup Menu!</string>
+    <string name="replyall">Replay all</string>
+    <string name="forward">Forward</string>
+    <string name="action_settings">Settings</string>
+</resources>

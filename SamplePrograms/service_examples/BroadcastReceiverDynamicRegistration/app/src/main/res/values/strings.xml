@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDynamicRegistration</string>
+
+    <string name="broadcast_intent_string">Broadcast Intent (Dynamic)</string>
+    <string name="action_settings">Settings</string>
+</resources>

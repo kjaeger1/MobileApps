@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UIMenuDemo</string>
+
+    <string name="greeting">Select a menu!</string>
+    <string name="call">Call</string>
+    <string name="edit">Edit</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="email">Email</string>
+    <string name="text">Text</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="trade">Trade</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_call">Call menu was selected!</string>
+    <string name="menu_edit">Edit menu was selected!</string>
+    <string name="menu_copy">Copy menu was selected!</string>
+    <string name="submenu_paste">Paste submenu was selected!</string>
+    <string name="submenu_email">Email submenu was selected!</string>
+    <string name="submenu_text">Text submenu was selected!</string>
+    <string name="submenu_buy">Buy submenu was selected!</string>
+    <string name="submenu_sell">Sell submenu was selected!</string>
+    <string name="submenu_trade">Trade submenu was selected!</string>
+</resources>
